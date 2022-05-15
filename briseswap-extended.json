@@ -1,0 +1,155 @@
+{
+    "name": "briseSwap Extended",
+    "timestamp": "2022-05-11T09:48:25.221Z",
+    "version": {
+        "major": 2,
+        "minor": 16,
+        "patch": 91
+    },
+    "logoURI": "https://bswap1.netlify.app/images/nfts/churro-md@2x.png",
+    "keywords": [
+        "Briseswap",
+        "extended"
+    ],
+    "tokens": [{
+            "name": "BriseSwap",
+            "symbol": "BSWAP",
+            "address": "0xEEa9Fe24FFBc4F338d90695Be5bf9c0964b93e7E",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://bswap1.netlify.app/images/nfts/drizzle-md@2x.png"
+        },
+        {
+            "name": "Young Parrot",
+            "symbol": "YPC",
+            "address": "0xFeea0bDd3D07eb6FE305938878C0caDBFa169042",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://youngparrotnft.com/_next/image?url=%2Flogo100.png&w=32&q=75"
+        },
+
+
+        {
+            "name": "BROGE",
+            "symbol": "BROGE",
+            "address": "0x41c5ae56681Fb19334eCF7d914919805DaE2Ec8f",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://storage.googleapis.com/coinsniper-assets/images/vQVLmorJRUkxnRMZ54PkL1fZkevWcm5PQL0opqhB.jpg"
+        },
+        {
+            "name": "brisezilla",
+            "symbol": "BRZILLA",
+            "address": "0x9b8535Dd9281e48484725bC9Eb6Ed2f66CEA2a36",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://brisezilla.com/wp-content/uploads/2022/04/icon.png"
+        },
+
+        {
+            "name": "Vefi Ecosystem Token",
+            "symbol": "VEF",
+            "address": "0xD6447d2fA919811c41a064bDbdaB1E281F8de9B2",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19993.png"
+        },
+        {
+            "name": "Omnia Verse",
+            "symbol": "Omnia",
+            "address": "0x5d4685c2C75581C67b9D6292A065a767bC214681",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://omniaverse.io/img/logo/omniaverse.png"
+        },
+        {
+            "name": "Brisepad",
+            "symbol": "BPAD",
+            "address": "0x71946a5C9dA7C95ee804a9BE561EC15A3F286A7D",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://storage.googleapis.com/coinsniper-assets/images/leN9FUE5P4DLygiQ6clLRrrNcvjOmUkbkVpLMP7s.jpg"
+        },
+        {
+            "name": "YOGO Token",
+            "symbol": "YOGO",
+            "address": "0xB361D5953e21Cfde5CD62B89FDf40bc21903A6bb",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://www.yo-go.net/storage/2021/11/y2.png"
+        },
+        {
+            "name": "Numitor",
+            "symbol": "Numi",
+            "address": "0x6718e47e74497d1564EE76d832309144b83Ef8E8",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19982.png"
+        },
+        {
+            "name": "EVO",
+            "symbol": "EVO",
+            "address": "0x267Ae4bA9CE5ef3c87629812596b0D89EcBD81dD",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/25373/small/evo.png?1651408436"
+        },
+        {
+            "name": "BitsXT",
+            "symbol": "BTXT",
+            "address": "0x1A8a039007186d7640C1D7Cd7c2606e333D04e03",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://tokens.pancakeswap.finance/images/0x1A8a039007186d7640C1D7Cd7c2606e333D04e03.png"
+        },
+        {
+            "name": "Brise Paradise",
+            "symbol": "PRDS",
+            "address": "0x31226B28add9062c5064a9Bd35eA155F323C6ca6",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://briseparadise.com/wp-content/uploads/2022/03/cropped-logo.png.webp"
+        },
+
+        {
+            "name": "Miidas NFT",
+            "symbol": "Miidas",
+            "address": "0x5B534A2Df329195Fd7e5c9AcA1D9ffbdA14A4963",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://brise.miidas.com/assets/images/coin.png"
+        },
+        {
+            "name": "4D Twin Maps",
+            "symbol": "MAP",
+            "address": "0x6D347fdCb302a5879545E01EceE7A176db23dCDa",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11079.pngg"
+        },
+        {
+            "name": "BRISESWAP",
+            "symbol": "BSWAP",
+            "address": "0xEEa9Fe24FFBc4F338d90695Be5bf9c0964b93e7E",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://bswap1.netlify.app/images/nfts/churro-md@2x.png"
+        },
+        {
+            "name": "BRISE",
+            "symbol": "BRISE",
+            "address": "0x8fff93e810a2edaafc326edee51071da9d398e83",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11079.png"
+        },
+        {
+            "name": "SPHYNX BRC",
+            "symbol": "SPHYNX",
+            "address": "0x0e11DCE06eF2FeD6f78CEF5144F970E1184b4298",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://thesphynx.co/images/tokens/32520/0x0e11dce06ef2fed6f78cef5144f970e1184b4298.png"
+        }
+    ]
+}
